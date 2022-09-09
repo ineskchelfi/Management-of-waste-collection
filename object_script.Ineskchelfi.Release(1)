@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\secdialog.o
+./release\admindialog.o
+./release\utilisateur.o
+./release\camions_de_collecte.o
+./release\conteneurs_dechets.o
+./release\moc_mainwindow.o
+./release\moc_secdialog.o
+./release\moc_admindialog.o
+);

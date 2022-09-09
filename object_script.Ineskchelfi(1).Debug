@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\secdialog.o
+./debug\admindialog.o
+./debug\utilisateur.o
+./debug\camions_de_collecte.o
+./debug\conteneurs_dechets.o
+./debug\moc_mainwindow.o
+./debug\moc_secdialog.o
+./debug\moc_admindialog.o
+);
